@@ -1,0 +1,7 @@
+*.suo
+bin/
+obj/
+*.js
+*.js*
+*.user
+
